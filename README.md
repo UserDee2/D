@@ -1,4 +1,4 @@
-# D
+# Chikacult ⚡
 Started Development: June 15, 2023
 Honestly, trip trip lang 'to and a challenge for me to test kung kaya ko ba 'tong tapusin, kasi kapag gumagawa ako ng project na alam kong bubuhos ako ng madaming oras dito, and would spend so many days to reach the finished product, I lose motivation somewhere in the middle, kaya I'm genuinely proud sa sarili ko for managing to finish this personal project!
 
